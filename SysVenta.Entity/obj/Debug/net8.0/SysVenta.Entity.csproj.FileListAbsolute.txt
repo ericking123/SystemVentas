@@ -1,0 +1,14 @@
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\bin\Debug\net8.0\SysVenta.Entity.deps.json
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\bin\Debug\net8.0\SysVenta.Entity.runtimeconfig.json
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\bin\Debug\net8.0\SysVenta.Entity.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\bin\Debug\net8.0\SysVenta.Entity.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.csproj.AssemblyReference.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.AssemblyInfoInputs.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.AssemblyInfo.cs
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.csproj.CoreCompileInputs.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\refint\SysVenta.Entity.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.genruntimeconfig.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\ref\SysVenta.Entity.dll

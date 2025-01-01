@@ -1,0 +1,15 @@
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\bin\Debug\net8.0\SysVenta.DAL.deps.json
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\bin\Debug\net8.0\SysVenta.DAL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\bin\Debug\net8.0\SysVenta.DAL.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.AssemblyInfoInputs.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.AssemblyInfo.cs
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.csproj.CoreCompileInputs.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\refint\SysVenta.DAL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\ref\SysVenta.DAL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\bin\Debug\net8.0\SysVenta.Entity.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\bin\Debug\net8.0\SysVenta.Entity.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.csproj.AssemblyReference.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.DAL\obj\Debug\net8.0\SysVenta.DAL.csproj.CopyComplete

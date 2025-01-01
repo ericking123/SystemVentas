@@ -1,0 +1,17 @@
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.BLL.deps.json
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.BLL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.BLL.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.AssemblyInfoInputs.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.AssemblyInfo.cs
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.csproj.CoreCompileInputs.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\refint\SysVenta.BLL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\ref\SysVenta.BLL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.DAL.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.Entity.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.DAL.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.Entity.pdb
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.csproj.AssemblyReference.cache
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.csproj.CopyComplete
