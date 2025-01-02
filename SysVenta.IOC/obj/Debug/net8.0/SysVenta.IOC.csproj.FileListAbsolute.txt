@@ -17,3 +17,4 @@ I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.IOC\
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.IOC\bin\Debug\net8.0\SysVenta.Entity.pdb
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.IOC\obj\Debug\net8.0\SysVenta.IOC.csproj.AssemblyReference.cache
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.IOC\obj\Debug\net8.0\SysVenta.IOC.csproj.CopyComplete
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.IOC\obj\Debug\net8.0\SysVenta.IOC.sourcelink.json

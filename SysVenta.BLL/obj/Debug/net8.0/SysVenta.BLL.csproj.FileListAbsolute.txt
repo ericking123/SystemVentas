@@ -15,3 +15,4 @@ I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\bin\Debug\net8.0\SysVenta.Entity.pdb
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.csproj.AssemblyReference.cache
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.csproj.CopyComplete
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.BLL\obj\Debug\net8.0\SysVenta.BLL.sourcelink.json

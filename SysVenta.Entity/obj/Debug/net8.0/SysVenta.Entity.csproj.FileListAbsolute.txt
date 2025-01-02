@@ -12,3 +12,4 @@ I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Enti
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.pdb
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.genruntimeconfig.cache
 I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\ref\SysVenta.Entity.dll
+I:\SISTEMAS\Proyectos de Sistemas e Informática\.NET\SistemaVenta\SysVenta.Entity\obj\Debug\net8.0\SysVenta.Entity.sourcelink.json
