@@ -1,3 +1,4 @@
+use DBVENTA;
 
 --________________________________ INSERTAR ROLES ________________________________
 insert into rol(descripcion,esActivo) values
@@ -24,9 +25,10 @@ insert into Configuracion(recurso,propiedad,valor) values
 ('FireBase_Storage','carpeta_producto','IMAGENES_PRODUCTO'),
 ('FireBase_Storage','carpeta_logo','IMAGENES_LOGO')
 
+select * from Configuracion;
 insert into Configuracion(recurso,propiedad,valor) values
-('Servicio_Correo','correo',''),
-('Servicio_Correo','clave',''),
+('Servicio_Correo','correo','erickkun666@gmail.com'),
+('Servicio_Correo','clave','augxooaxgrnapvqf'),
 ('Servicio_Correo','alias','MiTienda.com'),
 ('Servicio_Correo','host','smtp.gmail.com'),
 ('Servicio_Correo','puerto','587')
@@ -62,7 +64,7 @@ insert into TipoDocumentoVenta(descripcion,esActivo) values
 --________________________________ INSERTAR NUMERO CORRELATIVO ________________________________
 select * from NumeroCorrelativo
 --000001
-insert into NumeroCorrelativo(ultimoNumero,cantidadDigitos,gestion,fechaActualizacion) values
+insert into NumeroCorrelativo(ultimoNumero,cantidadDigitos,gestion,fechaActualizada) values
 (0,6,'venta',getdate())
 
 
