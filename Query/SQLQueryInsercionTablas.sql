@@ -16,11 +16,12 @@ insert into Usuario(nombre,correo,telefono,idRol,urlFoto,nombreFoto,clave,esActi
 --________________________________ RECURSOS DE FIREBASE_STORAGE Y CORREO ________________________________
 --(AQUI DEBES INCLUIR TUS PROPIAS CLAVES Y CRENDENCIALES)
 
+select * from Configuracion;
 insert into Configuracion(recurso,propiedad,valor) values
-('FireBase_Storage','email',''),
-('FireBase_Storage','clave',''),
-('FireBase_Storage','ruta',''),
-('FireBase_Storage','api_key',''),
+('FireBase_Storage','email','erick-kun23@hotmail.com'),
+('FireBase_Storage','clave','erick5998313'),
+('FireBase_Storage','ruta','mitiendaweb-832aa.appspot.com'),
+('FireBase_Storage','api_key','AIzaSyD-AG_312oYcOu3YAts_-uLWSmc8Gyfkjg'),
 ('FireBase_Storage','carpeta_usuario','IMAGENES_USUARIO'),
 ('FireBase_Storage','carpeta_producto','IMAGENES_PRODUCTO'),
 ('FireBase_Storage','carpeta_logo','IMAGENES_LOGO')
