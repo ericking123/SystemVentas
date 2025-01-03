@@ -50,9 +50,8 @@ namespace SysVenta.BLL.Implementacion
                 clienteServidor.Send(correo);
                 return true;
 
-            } catch (Exception ex)
+            } catch
             {
-                throw ex;
                 return false;
             }
         }

@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SysVenta.DAL.DBContext;
@@ -23,11 +22,10 @@ namespace SysVenta.IOC
             {
                 options.UseSqlServer(Configuration.GetConnectionString("CadenaSQL"));
             });
-
             services.AddTransient(typeof(InterfazGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<InterfazVentaRepository, VentaRepository>();
-
             services.AddScoped<InterfazCorreoService, CorreoService>();
+            services.AddScoped<InterfazFireBaseService, FireBaseService>();
         }
     }
 }
